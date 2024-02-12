@@ -62,9 +62,10 @@ button{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  white-space: nowrap;
+  white-space: normal;
+  text-overflow: ellipsis;
   will-change: box-shadow,transform;
-  font-size: 2vw;
+  font-size: 18px;
 }
 
 button:focus {
