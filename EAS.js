@@ -1,4 +1,4 @@
-const gridDimension = 600;
+const gridDimension = 1000;
 
 
 
